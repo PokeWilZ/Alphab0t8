@@ -46,15 +46,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/pokewilz"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Willy Supranata",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/Willy Supranata"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/pokewilz"
 }
