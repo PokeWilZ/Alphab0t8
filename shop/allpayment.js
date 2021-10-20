@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Willy Supranata
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ -
+		• -
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 082286896563
+		• Willy Supranata
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 082286896563
+		• Willy Supranata
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 082286896563
+		• Willy Supranata
 
 *さ PULSA*
-1. SMARTFREN
-	ㅁ 0887 4350 47326
+1. TRI
+	ㅁ 089514113395
 2. TELKOMSEL
-	ㅁ 0821 9311 5723
+	ㅁ 082286896564
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
