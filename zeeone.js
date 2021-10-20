@@ -48,7 +48,7 @@ alpha.on('group-participants-update', async (anu) => {
 			falfa = { key: {fromMe: false,participant: "0@s.whatsapp.net",
 		remoteJid: "0@s.whatsapp.net"},
 message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us",
-"inviteCode": "mememteeeekkeke","groupName": "Alphabot", 
+"inviteCode": "mememteeeekkeke","groupName": "JB|WILLYSTORE", 
 "caption": `Made With ❣️`, 'jpegThumbnail': fs.readFileSync(`image/${setting.thumb}`)
 }}}
          const mdata = await alpha.groupMetadata(anu.jid)
